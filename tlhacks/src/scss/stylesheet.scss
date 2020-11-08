@@ -1,0 +1,12 @@
+@import "_colors.scss";
+
+body {
+    background-color: $dark-primary;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}

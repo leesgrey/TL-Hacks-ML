@@ -1,0 +1,38 @@
+@import './_colors.scss';
+
+#navlist {
+    list-style-type: none;
+    float: right;
+    margin-right: 15px;
+}
+
+#navbar {
+    width: 100%;
+    display: inline-block;
+}
+
+#logo {
+    margin: 0;
+    display: inline-block;
+    margin-left: 0.5em;
+    color: $bright-primary;
+}
+
+.navbutton {
+    display: inline-block;
+    width: 8vw;
+    text-align: center;
+    margin-left: 1em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+}
+
+.navbutton a {
+    color: $medium-secondary;
+    transition: color 0.2s;
+}
+
+.navbutton a:hover {
+    color: $bright-primary;
+}

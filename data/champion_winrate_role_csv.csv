@@ -1,0 +1,790 @@
+rumble,top,0.4834710743801653,117,242
+rumble,jungle,0.3333333333333333,1,3
+rumble,mid,0.4875,195,400
+rumble,bot,0.5,1,2
+rumble,support,0.4375,14,32
+elise,top,0.0,0,3
+elise,jungle,0.47919010123734535,426,889
+elise,mid,0.0,0,1
+elise,bot,0.0,0,3
+elise,support,0.0,0,2
+qiyana,top,0.3333333333333333,3,9
+qiyana,jungle,0.6486486486486487,48,74
+qiyana,mid,0.4742268041237113,138,291
+qiyana,bot,0.0,0,1
+qiyana,support,0.0,0,1
+miss fortune,top,0.0,0,2
+miss fortune,jungle,0.0,0,1
+miss fortune,mid,0.0,0,3
+miss fortune,bot,0.5060465116279069,1088,2150
+miss fortune,support,0.0,0,2
+nautilus,top,0.0,0,3
+nautilus,jungle,0.0,0,2
+nautilus,mid,0.43283582089552236,29,67
+nautilus,bot,0.4,2,5
+nautilus,support,0.48788321167883214,1671,3425
+aatrox 2018,top,0.4804733727810651,812,1690
+aatrox 2018,jungle,0.0,0,2
+aatrox 2018,mid,0.5490196078431373,28,51
+aatrox 2018,bot,0.5,1,2
+aatrox 2018,support,0.0,0,1
+gragas,top,0.39473684210526316,15,38
+gragas,jungle,0.5086128739800544,561,1103
+gragas,mid,0.5555555555555556,5,9
+gragas,bot,0.0,0,1
+gragas,support,0.48333333333333334,29,60
+mordekaiser 2019,top,0.4872021182700794,552,1133
+mordekaiser 2019,jungle,0.5,3,6
+mordekaiser 2019,mid,0.4528301886792453,24,53
+mordekaiser 2019,bot,0.0,0,2
+mordekaiser 2019,support,0.25,1,4
+xayah,top,0.0,0,1
+xayah,jungle,0.0,0,1
+xayah,mid,0.0,0,3
+xayah,bot,0.46480938416422285,317,682
+xayah,support,0.5,1,2
+rakan,top,0.0,0,1
+rakan,jungle,0.0,0,3
+rakan,mid,0.8,4,5
+rakan,bot,0.0,0,1
+rakan,support,0.5579439252336449,597,1070
+varus 2018,top,0.0,0,1
+varus 2018,jungle,0.0,0,1
+varus 2018,mid,0.4642857142857143,13,28
+varus 2018,bot,0.5196078431372549,742,1428
+varus 2018,support,0.0,0,1
+tahm kench,top,0.0,0,1
+tahm kench,jungle,0.5,1,2
+tahm kench,mid,0.0,0,1
+tahm kench,bot,0.16666666666666666,1,6
+tahm kench,support,0.49166004765687055,619,1259
+jayce,top,0.49500998003992014,248,501
+jayce,jungle,0.5,1,2
+jayce,mid,0.5112359550561798,91,178
+jayce,bot,0.2,1,5
+jayce,support,0.0,0,3
+jarvan iv,top,0.4,4,10
+jarvan iv,jungle,0.4782122905027933,856,1790
+jarvan iv,mid,0.5,1,2
+jarvan iv,bot,0.0,0,1
+jarvan iv,support,0.14285714285714285,1,7
+orianna,top,0.0,0,1
+orianna,jungle,0.0,0,1
+orianna,mid,0.5025614754098361,981,1952
+orianna,bot,0.2,1,5
+orianna,support,0.0,0,3
+sejuani,top,0.4,2,5
+sejuani,jungle,0.46225535880708296,496,1073
+sejuani,mid,0.0,0,1
+sejuani,bot,0.0,0,1
+sejuani,support,0.3333333333333333,1,3
+azir,top,0.5,1,2
+azir,jungle,0.0,0,1
+azir,mid,0.466375068343357,853,1829
+azir,bot,0.0,0,5
+azir,support,0.0,0,1
+renekton,top,0.5296934865900383,1106,2088
+renekton,jungle,0.0,0,3
+renekton,mid,0.5463917525773195,53,97
+renekton,bot,0.5,1,2
+renekton,support,0.25,1,4
+rek'sai,top,0.0,0,1
+rek'sai,jungle,0.5080731969860065,472,929
+rek'sai,mid,0.6666666666666666,2,3
+rek'sai,bot,0.0,0,1
+rek'sai,support,0.0,0,1
+quinn,top,0.3898305084745763,23,59
+quinn,jungle,0.0,0,1
+quinn,mid,0.0,0,1
+quinn,bot,0.0,0,2
+quinn,support,0.0,0,1
+olaf,top,0.5,11,22
+olaf,jungle,0.49581239530988275,592,1194
+olaf,mid,0.25,1,4
+olaf,bot,0.0,0,1
+olaf,support,0.0,0,1
+leona,top,0.5,1,2
+leona,jungle,0.0,0,1
+leona,mid,0.0,0,3
+leona,bot,0.0,0,1
+leona,support,0.49220103986135183,852,1731
+pantheon 2019,top,0.44,33,75
+pantheon 2019,jungle,0.4484848484848485,74,165
+pantheon 2019,mid,0.5424354243542435,147,271
+pantheon 2019,bot,0.0,0,5
+pantheon 2019,support,0.501628664495114,154,307
+cassiopeia,top,0.5238095238095238,22,42
+cassiopeia,jungle,0.5,1,2
+cassiopeia,mid,0.5406091370558376,426,788
+cassiopeia,bot,0.46875,45,96
+cassiopeia,support,0.0,0,2
+lee sin,top,0.0,0,2
+lee sin,jungle,0.4848993288590604,1156,2384
+lee sin,mid,0.5,2,4
+lee sin,bot,0.0,0,1
+lee sin,support,0.6666666666666666,2,3
+lucian,top,0.48333333333333334,87,180
+lucian,jungle,0.0,0,1
+lucian,mid,0.48902195608782434,245,501
+lucian,bot,0.45714285714285713,176,385
+lucian,support,0.6666666666666666,2,3
+irelia 2018,top,0.5119047619047619,129,252
+irelia 2018,jungle,0.0,0,3
+irelia 2018,mid,0.4485049833887043,135,301
+irelia 2018,bot,0.0,0,6
+irelia 2018,support,0.0,0,2
+syndra,top,0.3333333333333333,2,6
+syndra,jungle,0.0,0,3
+syndra,mid,0.5292225201072386,987,1865
+syndra,bot,0.4297872340425532,101,235
+syndra,support,0.5,1,2
+ornn,top,0.5034825870646766,1518,3015
+ornn,jungle,0.2727272727272727,3,11
+ornn,mid,0.47115384615384615,98,208
+ornn,bot,0.0,0,2
+ornn,support,0.14285714285714285,2,14
+galio 2017,top,0.3333333333333333,1,3
+galio 2017,jungle,0.5,1,2
+galio 2017,mid,0.4824242424242424,398,825
+galio 2017,bot,0.5,1,2
+galio 2017,support,0.5084745762711864,90,177
+senna,top,0.0,0,1
+senna,jungle,0.0,0,1
+senna,mid,0.0,0,1
+senna,bot,0.491849353569421,875,1779
+senna,support,0.4166666666666667,100,240
+leblanc,top,0.25,1,4
+leblanc,jungle,0.6666666666666666,2,3
+leblanc,mid,0.5226689478186484,611,1169
+leblanc,bot,0.0,0,1
+leblanc,support,0.5,1,2
+alistar,top,0.0,0,1
+alistar,jungle,0.0,0,1
+alistar,mid,0.0,0,1
+alistar,bot,0.0,0,1
+alistar,support,0.5386819484240688,188,349
+braum,top,0.0,0,1
+braum,jungle,0.0,0,1
+braum,mid,0.0,0,1
+braum,bot,0.0,0,1
+braum,support,0.4642328564380858,941,2027
+tristana,top,0.5,6,12
+tristana,jungle,0.0,0,1
+tristana,mid,0.38095238095238093,48,126
+tristana,bot,0.4460431654676259,62,139
+tristana,support,0.0,0,1
+fiora,top,0.448559670781893,109,243
+fiora,jungle,0.0,0,1
+fiora,mid,0.42857142857142855,3,7
+fiora,bot,0.0,0,1
+fiora,support,0.0,0,1
+thresh,top,0.0,0,2
+thresh,jungle,0.0,0,2
+thresh,mid,0.5,1,2
+thresh,bot,0.5,1,2
+thresh,support,0.5167448091091762,1543,2986
+ryze,top,0.5223880597014925,35,67
+ryze,jungle,0.0,0,1
+ryze,mid,0.4875283446712018,215,441
+ryze,bot,0.0,0,1
+ryze,support,0.0,0,1
+diana,top,0.5,1,2
+diana,jungle,0.375,9,24
+diana,mid,0.47280334728033474,113,239
+diana,bot,0.0,0,1
+diana,support,0.0,0,1
+aphelios,top,0.0,0,1
+aphelios,jungle,0.0,0,1
+aphelios,mid,0.2,1,5
+aphelios,bot,0.5307741116751269,1673,3152
+aphelios,support,0.0,0,1
+zoe,top,0.5,1,2
+zoe,jungle,0.0,0,2
+zoe,mid,0.5290556900726392,874,1652
+zoe,bot,0.5,1,2
+zoe,support,0.0,0,2
+taliyah,top,0.0,0,1
+taliyah,jungle,0.45454545454545453,55,121
+taliyah,mid,0.49333333333333335,37,75
+taliyah,bot,0.5,24,48
+taliyah,support,0.0,0,1
+gangplank,top,0.4887640449438202,609,1246
+gangplank,jungle,0.0,0,1
+gangplank,mid,0.16666666666666666,1,6
+gangplank,bot,0.0,0,1
+gangplank,support,0.0,0,1
+kindred,top,0.0,0,1
+kindred,jungle,0.4620573355817875,274,593
+kindred,mid,0.8,4,5
+kindred,bot,0.35714285714285715,5,14
+kindred,support,0.0,0,1
+caitlyn,top,0.0,0,1
+caitlyn,jungle,0.0,0,1
+caitlyn,mid,0.0,0,1
+caitlyn,bot,0.5387205387205387,480,891
+caitlyn,support,0.0,0,1
+camille,top,0.5402405180388529,584,1081
+camille,jungle,0.75,6,8
+camille,mid,0.5116279069767442,22,43
+camille,bot,0.0,0,1
+camille,support,0.0,0,3
+kai'sa,top,0.0,0,1
+kai'sa,jungle,0.0,0,1
+kai'sa,mid,0.5,3,6
+kai'sa,bot,0.44920440636474906,367,817
+kai'sa,support,0.0,0,1
+kennen,top,0.4767932489451477,226,474
+kennen,jungle,0.0,0,1
+kennen,mid,0.5,3,6
+kennen,bot,0.0,0,1
+kennen,support,0.0,0,1
+ekko,top,0.7,7,10
+ekko,jungle,0.4887459807073955,152,311
+ekko,mid,0.5233050847457628,247,472
+ekko,bot,0.0,0,1
+ekko,support,0.0,0,1
+akali 2018,top,0.5345911949685535,85,159
+akali 2018,jungle,0.0,0,1
+akali 2018,mid,0.5170807453416149,333,644
+akali 2018,bot,0.0,0,2
+akali 2018,support,0.0,0,1
+lissandra,top,0.625,5,8
+lissandra,jungle,0.5,1,2
+lissandra,mid,0.5133689839572193,96,187
+lissandra,bot,0.0,0,1
+lissandra,support,0.0,0,2
+sett,top,0.5289473684210526,804,1520
+sett,jungle,0.514324693042292,377,733
+sett,mid,0.5105633802816901,145,284
+sett,bot,0.125,1,8
+sett,support,0.5067873303167421,336,663
+vladimir,top,0.48011363636363635,169,352
+vladimir,jungle,0.0,0,1
+vladimir,mid,0.48026315789473684,73,152
+vladimir,bot,0.25,1,4
+vladimir,support,0.0,0,1
+nidalee,top,0.0,0,1
+nidalee,jungle,0.5578747628083491,588,1054
+nidalee,mid,0.0,0,1
+nidalee,bot,0.5,1,2
+nidalee,support,0.0,0,2
+morgana 2019,top,0.0,0,1
+morgana 2019,jungle,0.42857142857142855,3,7
+morgana 2019,mid,0.4166666666666667,15,36
+morgana 2019,bot,0.2222222222222222,2,9
+morgana 2019,support,0.5412667946257198,282,521
+nocturne,top,0.2857142857142857,2,7
+nocturne,jungle,0.48,96,200
+nocturne,mid,0.5961538461538461,31,52
+nocturne,bot,0.0,0,1
+nocturne,support,0.0,0,1
+sylas,top,0.5160142348754448,145,281
+sylas,jungle,0.49504950495049505,50,101
+sylas,mid,0.4733637747336377,311,657
+sylas,bot,0.0,0,1
+sylas,support,0.6666666666666666,2,3
+kled,top,0.45714285714285713,80,175
+kled,jungle,0.0,0,1
+kled,mid,0.7142857142857143,20,28
+kled,bot,0.0,0,1
+kled,support,0.3333333333333333,1,3
+pyke,top,0.0,0,2
+pyke,jungle,0.0,0,1
+pyke,mid,0.2222222222222222,2,9
+pyke,bot,0.5,6,12
+pyke,support,0.38571428571428573,54,140
+sion,top,0.5026041666666666,193,384
+sion,jungle,0.0,0,2
+sion,mid,0.5384615384615384,7,13
+sion,bot,0.5,1,2
+sion,support,0.14285714285714285,1,7
+gnar,top,0.4417910447761194,148,335
+gnar,jungle,0.0,0,1
+gnar,mid,0.0,0,2
+gnar,bot,0.0,0,2
+gnar,support,0.0,0,1
+cho'gath,top,0.4489795918367347,66,147
+cho'gath,jungle,0.0,0,3
+cho'gath,mid,0.5555555555555556,20,36
+cho'gath,bot,0.0,0,7
+cho'gath,support,0.2,1,5
+taric,top,0.0,0,1
+taric,jungle,0.0,0,1
+taric,mid,0.0,0,7
+taric,bot,0.0,0,3
+taric,support,0.4787701317715959,327,683
+shen,top,0.46322067594433397,233,503
+shen,jungle,0.52,13,25
+shen,mid,0.0,0,1
+shen,bot,0.0,0,1
+shen,support,0.5180722891566265,43,83
+viktor,top,0.4444444444444444,4,9
+viktor,jungle,0.0,0,1
+viktor,mid,0.47540983606557374,174,366
+viktor,bot,0.42857142857142855,3,7
+viktor,support,0.0,0,1
+zilean,top,0.3,3,10
+zilean,jungle,0.0,0,1
+zilean,mid,0.4742268041237113,46,97
+zilean,bot,0.4,2,5
+zilean,support,0.5287356321839081,46,87
+jax,top,0.4896142433234421,165,337
+jax,jungle,0.4,2,5
+jax,mid,0.5,1,2
+jax,bot,0.0,0,1
+jax,support,0.0,0,1
+bard,top,0.5,1,2
+bard,jungle,0.0,0,1
+bard,mid,0.0,0,2
+bard,bot,0.25,1,4
+bard,support,0.5950207468879668,717,1205
+zac,top,0.3333333333333333,12,36
+zac,jungle,0.5219298245614035,119,228
+zac,mid,0.0,0,3
+zac,bot,0.0,0,1
+zac,support,0.375,3,8
+shaco,top,0.0,0,1
+shaco,jungle,0.5263157894736842,10,19
+shaco,mid,0.0,0,1
+shaco,bot,0.0,0,1
+shaco,support,0.5714285714285714,4,7
+kassadin,top,0.3333333333333333,1,3
+kassadin,jungle,0.5,1,2
+kassadin,mid,0.5102564102564102,199,390
+kassadin,bot,0.0,0,1
+kassadin,support,0.0,0,2
+draven,top,0.0,0,1
+draven,jungle,0.0,0,1
+draven,mid,0.0,0,2
+draven,bot,0.5169491525423728,61,118
+draven,support,0.0,0,1
+karma,top,0.5,78,156
+karma,jungle,0.0,0,1
+karma,mid,0.42178770949720673,151,358
+karma,bot,0.42857142857142855,6,14
+karma,support,0.48393782383419687,467,965
+illaoi,top,0.42857142857142855,24,56
+illaoi,jungle,0.0,0,1
+illaoi,mid,0.0,0,1
+illaoi,bot,0.0,0,1
+illaoi,support,0.0,0,1
+yasuo,top,0.6363636363636364,7,11
+yasuo,jungle,0.0,0,1
+yasuo,mid,0.50187265917603,134,267
+yasuo,bot,0.46551724137931033,27,58
+yasuo,support,0.0,0,1
+twisted fate,top,0.0,0,1
+twisted fate,jungle,0.0,0,1
+twisted fate,mid,0.5705128205128205,445,780
+twisted fate,bot,0.0,0,1
+twisted fate,support,0.0,0,1
+shyvana,top,0.38095238095238093,8,21
+shyvana,jungle,0.49375,79,160
+shyvana,mid,0.0,0,1
+shyvana,bot,0.0,0,1
+shyvana,support,0.0,0,1
+ashe,top,0.0,0,1
+ashe,jungle,0.0,0,1
+ashe,mid,0.0,0,1
+ashe,bot,0.4905920146856356,1069,2179
+ashe,support,0.16666666666666666,1,6
+nami,top,0.0,0,1
+nami,jungle,0.0,0,1
+nami,mid,0.0,0,3
+nami,bot,0.0,0,1
+nami,support,0.575,23,40
+heimerdinger,top,0.25,1,4
+heimerdinger,jungle,0.0,0,1
+heimerdinger,mid,0.6875,11,16
+heimerdinger,bot,0.4426229508196721,27,61
+heimerdinger,support,0.0,0,2
+yorick,top,0.3673469387755102,18,49
+yorick,jungle,0.0,0,1
+yorick,mid,0.0,0,1
+yorick,bot,0.0,0,1
+yorick,support,0.0,0,1
+malzahar,top,0.0,0,1
+malzahar,jungle,0.0,0,1
+malzahar,mid,0.5161290322580645,32,62
+malzahar,bot,0.0,0,1
+malzahar,support,0.0,0,1
+zyra,top,0.0,0,1
+zyra,jungle,0.0,0,1
+zyra,mid,0.0,0,3
+zyra,bot,0.0,0,1
+zyra,support,0.3333333333333333,18,54
+rengar,top,0.5555555555555556,10,18
+rengar,jungle,0.6666666666666666,20,30
+rengar,mid,0.5,1,2
+rengar,bot,0.0,0,2
+rengar,support,0.0,0,1
+urgot 2017,top,0.5231481481481481,113,216
+urgot 2017,jungle,0.0,0,2
+urgot 2017,mid,0.6,3,5
+urgot 2017,bot,0.0,0,1
+urgot 2017,support,0.0,0,1
+veigar,top,0.0,0,1
+veigar,jungle,0.0,0,1
+veigar,mid,0.42990654205607476,46,107
+veigar,bot,0.25925925925925924,7,27
+veigar,support,0.3333333333333333,1,3
+corki,top,0.0,0,2
+corki,jungle,0.0,0,1
+corki,mid,0.47255369928400953,396,838
+corki,bot,0.0,0,5
+corki,support,0.0,0,1
+kayle 2019,top,0.48295454545454547,85,176
+kayle 2019,jungle,0.0,0,1
+kayle 2019,mid,0.5714285714285714,4,7
+kayle 2019,bot,0.0,0,1
+kayle 2019,support,0.5,1,2
+poppy,top,0.4461538461538462,87,195
+poppy,jungle,0.5833333333333334,21,36
+poppy,mid,0.0,0,3
+poppy,bot,0.0,0,1
+poppy,support,0.3,3,10
+trundle,top,0.4827586206896552,14,29
+trundle,jungle,0.5084175084175084,1057,2079
+trundle,mid,0.0,0,1
+trundle,bot,0.0,0,1
+trundle,support,0.3829787234042553,18,47
+karthus,top,0.3333333333333333,1,3
+karthus,jungle,0.5204359673024523,191,367
+karthus,mid,0.375,6,16
+karthus,bot,0.5851063829787234,55,94
+karthus,support,0.0,0,1
+vel'koz,top,0.0,0,1
+vel'koz,jungle,0.0,0,1
+vel'koz,mid,0.5,74,148
+vel'koz,bot,0.5384615384615384,14,26
+vel'koz,support,0.375,3,8
+soraka,top,0.5126050420168067,61,119
+soraka,jungle,0.0,0,1
+soraka,mid,0.5555555555555556,5,9
+soraka,bot,0.5434782608695652,25,46
+soraka,support,0.4,30,75
+kayn,top,0.2,1,5
+kayn,jungle,0.38202247191011235,34,89
+kayn,mid,0.5333333333333333,8,15
+kayn,bot,0.0,0,1
+kayn,support,0.0,0,1
+malphite,top,0.494949494949495,196,396
+malphite,jungle,0.0,0,1
+malphite,mid,0.47058823529411764,8,17
+malphite,bot,0.5,1,2
+malphite,support,0.0,0,3
+xerath,top,0.0,0,1
+xerath,jungle,0.0,0,1
+xerath,mid,0.41509433962264153,22,53
+xerath,bot,0.5,2,4
+xerath,support,0.14285714285714285,1,7
+blitzcrank,top,0.0,0,1
+blitzcrank,jungle,0.0,0,1
+blitzcrank,mid,0.0,0,1
+blitzcrank,bot,0.0,0,1
+blitzcrank,support,0.5217391304347826,228,437
+lulu,top,0.4411764705882353,15,34
+lulu,jungle,0.0,0,1
+lulu,mid,0.3442622950819672,21,61
+lulu,bot,0.0,0,1
+lulu,support,0.45703125,234,512
+dr. mundo,top,0.7307692307692307,19,26
+dr. mundo,jungle,0.3333333333333333,4,12
+dr. mundo,mid,0.0,0,1
+dr. mundo,bot,0.0,0,1
+dr. mundo,support,0.0,0,1
+sivir,top,0.0,0,1
+sivir,jungle,0.0,0,1
+sivir,mid,0.0,0,2
+sivir,bot,0.4883720930232558,84,172
+sivir,support,0.0,0,1
+anivia,top,0.0,0,1
+anivia,jungle,0.0,0,1
+anivia,mid,0.3170731707317073,13,41
+anivia,bot,0.0,0,1
+anivia,support,0.0,0,1
+swain 2018,top,0.42857142857142855,3,7
+swain 2018,jungle,0.0,0,1
+swain 2018,mid,0.6153846153846154,8,13
+swain 2018,bot,0.42857142857142855,6,14
+swain 2018,support,0.42857142857142855,6,14
+riven,top,0.5,20,40
+riven,jungle,0.6666666666666666,2,3
+riven,mid,0.5,1,2
+riven,bot,0.0,0,1
+riven,support,0.0,0,1
+ezreal,top,0.3333333333333333,1,3
+ezreal,jungle,0.0,0,1
+ezreal,mid,0.5161290322580645,16,31
+ezreal,bot,0.49268617021276595,1482,3008
+ezreal,support,0.5,1,2
+nasus,top,0.16666666666666666,1,6
+nasus,jungle,0.0,0,2
+nasus,mid,0.5,1,2
+nasus,bot,0.0,0,1
+nasus,support,0.0,0,1
+jinx,top,0.0,0,1
+jinx,jungle,0.0,0,1
+jinx,mid,0.0,0,1
+jinx,bot,0.4268292682926829,35,82
+jinx,support,0.0,0,1
+garen,top,0.6666666666666666,12,18
+garen,jungle,0.0,0,2
+garen,mid,0.16666666666666666,1,6
+garen,bot,0.5,1,2
+garen,support,0.0,0,1
+tryndamere,top,0.4,6,15
+tryndamere,jungle,0.0,0,2
+tryndamere,mid,0.5,3,6
+tryndamere,bot,0.0,0,1
+tryndamere,support,0.0,0,1
+skarner,top,0.25,2,8
+skarner,jungle,0.5026737967914439,94,187
+skarner,mid,0.0,0,1
+skarner,bot,0.0,0,1
+skarner,support,0.0,0,1
+talon,top,0.0,0,1
+talon,jungle,0.0,0,1
+talon,mid,0.3333333333333333,6,18
+talon,bot,0.0,0,1
+talon,support,0.0,0,1
+ahri,top,0.0,0,1
+ahri,jungle,0.0,0,1
+ahri,mid,0.34210526315789475,13,38
+ahri,bot,0.0,0,1
+ahri,support,0.0,0,1
+ziggs,top,0.0,0,2
+ziggs,jungle,0.0,0,1
+ziggs,mid,0.4835164835164835,132,273
+ziggs,bot,0.45622119815668205,99,217
+ziggs,support,0.5,2,4
+transparent,top,0.47619047619047616,10,21
+transparent,jungle,0.47619047619047616,10,21
+transparent,mid,0.45454545454545453,10,22
+transparent,bot,0.47619047619047616,10,21
+transparent,support,0.47619047619047616,10,21
+fiddlesticks,top,0.0,0,1
+fiddlesticks,jungle,0.0,0,2
+fiddlesticks,mid,0.0,0,1
+fiddlesticks,bot,0.0,0,1
+fiddlesticks,support,0.6,3,5
+graves,top,0.2222222222222222,2,9
+graves,jungle,0.5301322880940715,1082,2041
+graves,mid,0.4,4,10
+graves,bot,0.25,1,4
+graves,support,0.0,0,1
+annie,top,0.0,0,1
+annie,jungle,0.0,0,1
+annie,mid,0.42857142857142855,3,7
+annie,bot,0.0,0,1
+annie,support,0.3333333333333333,1,3
+jhin,top,0.0,0,1
+jhin,jungle,0.0,0,1
+jhin,mid,0.0,0,2
+jhin,bot,0.5348837209302325,460,860
+jhin,support,0.0,0,1
+hecarim,top,0.5362318840579711,37,69
+hecarim,jungle,0.48985507246376814,169,345
+hecarim,mid,0.0,0,1
+hecarim,bot,0.0,0,1
+hecarim,support,0.0,0,1
+warwick 2017,top,0.0,0,2
+warwick 2017,jungle,0.2857142857142857,2,7
+warwick 2017,mid,0.0,0,1
+warwick 2017,bot,0.0,0,1
+warwick 2017,support,0.0,0,1
+evelynn 2017,top,0.0,0,1
+evelynn 2017,jungle,0.5730337078651685,51,89
+evelynn 2017,mid,0.0,0,1
+evelynn 2017,bot,0.0,0,1
+evelynn 2017,support,0.0,0,1
+xin zhao 2018,top,0.0,0,1
+xin zhao 2018,jungle,0.4358974358974359,17,39
+xin zhao 2018,mid,0.0,0,1
+xin zhao 2018,bot,0.0,0,1
+xin zhao 2018,support,0.0,0,1
+maokai,top,0.44510978043912175,223,501
+maokai,jungle,0.45454545454545453,5,11
+maokai,mid,0.75,6,8
+maokai,bot,0.2857142857142857,2,7
+maokai,support,0.5346534653465347,54,101
+sona,top,0.4,2,5
+sona,jungle,0.0,0,1
+sona,mid,0.0,0,1
+sona,bot,0.4714285714285714,33,70
+sona,support,0.38461538461538464,5,13
+kalista,top,0.5625,27,48
+kalista,jungle,0.0,0,1
+kalista,mid,0.4,6,15
+kalista,bot,0.5186011904761905,697,1344
+kalista,support,0.0,0,1
+kha'zix,top,0.0,0,1
+kha'zix,jungle,0.5363408521303258,214,399
+kha'zix,mid,0.5,1,2
+kha'zix,bot,0.0,0,1
+kha'zix,support,0.0,0,1
+zed,top,0.0,0,1
+zed,jungle,0.0,0,1
+zed,mid,0.38028169014084506,27,71
+zed,bot,0.0,0,1
+zed,support,0.0,0,1
+vayne,top,0.45454545454545453,10,22
+vayne,jungle,0.0,0,1
+vayne,mid,0.5925925925925926,16,27
+vayne,bot,0.3986013986013986,57,143
+vayne,support,0.0,0,1
+neeko,top,0.5915492957746479,42,71
+neeko,jungle,0.0,0,1
+neeko,mid,0.42735042735042733,50,117
+neeko,bot,0.5,5,10
+neeko,support,0.5,2,4
+singed,top,0.3888888888888889,7,18
+singed,jungle,0.0,0,2
+singed,mid,0.0,0,1
+singed,bot,0.0,0,1
+singed,support,0.0,0,2
+yuumi,top,0.0,0,1
+yuumi,jungle,0.5,1,2
+yuumi,mid,0.0,0,1
+yuumi,bot,0.0,0,2
+yuumi,support,0.4591715976331361,388,845
+lux,top,0.0,0,1
+lux,jungle,0.0,0,1
+lux,mid,0.19047619047619047,4,21
+lux,bot,0.16666666666666666,1,6
+lux,support,0.5136054421768708,151,294
+fizz,top,0.0,0,1
+fizz,jungle,0.0,0,1
+fizz,mid,0.36666666666666664,11,30
+fizz,bot,0.0,0,1
+fizz,support,0.0,0,1
+katarina,top,0.0,0,1
+katarina,jungle,0.0,0,1
+katarina,mid,0.2777777777777778,5,18
+katarina,bot,0.0,0,1
+katarina,support,0.0,0,1
+aurelion sol,top,0.0,0,1
+aurelion sol,jungle,0.0,0,1
+aurelion sol,mid,0.36666666666666664,11,30
+aurelion sol,bot,0.0,0,1
+aurelion sol,support,0.0,0,2
+kog'maw,top,0.0,0,1
+kog'maw,jungle,0.0,0,1
+kog'maw,mid,0.32954545454545453,29,88
+kog'maw,bot,0.3333333333333333,27,81
+kog'maw,support,0.0,0,1
+darius,top,0.4567901234567901,37,81
+darius,jungle,0.0,0,1
+darius,mid,0.5,1,2
+darius,bot,0.5,1,2
+darius,support,0.0,0,1
+ivern,top,0.0,0,1
+ivern,jungle,0.3333333333333333,15,45
+ivern,mid,0.0,0,1
+ivern,bot,0.0,0,1
+ivern,support,0.0,0,2
+twitch,top,0.5,1,2
+twitch,jungle,0.0,0,1
+twitch,mid,0.0,0,1
+twitch,bot,0.4857142857142857,34,70
+twitch,support,0.0,0,1
+nunu & willump,top,0.0,0,1
+nunu & willump,jungle,0.41304347826086957,19,46
+nunu & willump,mid,0.5,6,12
+nunu & willump,bot,0.0,0,1
+nunu & willump,support,0.0,0,1
+volibear,top,0.5,2,4
+volibear,jungle,0.0,0,1
+volibear,mid,0.0,0,2
+volibear,bot,0.0,0,1
+volibear,support,0.6,21,35
+master yi,top,0.0,0,1
+master yi,jungle,0.07692307692307693,1,13
+master yi,mid,0.0,0,1
+master yi,bot,0.0,0,1
+master yi,support,0.0,0,1
+amumu,top,0.0,0,3
+amumu,jungle,0.125,1,8
+amumu,mid,0.0,0,1
+amumu,bot,0.0,0,1
+amumu,support,0.0,0,1
+janna,top,0.7692307692307693,10,13
+janna,jungle,0.0,0,1
+janna,mid,0.0,0,1
+janna,bot,0.0,0,2
+janna,support,0.4626865671641791,31,67
+wukong,top,0.5186862967157417,458,883
+wukong,jungle,0.42718446601941745,44,103
+wukong,mid,0.5,4,8
+wukong,bot,0.35135135135135137,13,37
+wukong,support,0.5121951219512195,21,41
+rammus,top,0.0,0,1
+rammus,jungle,0.25,1,4
+rammus,mid,0.0,0,2
+rammus,bot,0.0,0,1
+rammus,support,0.0,0,2
+vi,top,0.0,0,1
+vi,jungle,0.4,6,15
+vi,mid,0.5,1,2
+vi,bot,0.0,0,1
+vi,support,0.0,0,1
+brand,top,0.0,0,1
+brand,jungle,0.42857142857142855,3,7
+brand,mid,0.0,0,1
+brand,bot,0.0,0,4
+brand,support,0.2857142857142857,2,7
+teemo,top,0.0,0,3
+teemo,jungle,0.0,0,2
+teemo,mid,0.0,0,1
+teemo,bot,0.0,0,1
+teemo,support,0.0,0,1
+fiddlesticks 2020,top,0.5789473684210527,11,19
+fiddlesticks 2020,jungle,0.46153846153846156,24,52
+fiddlesticks 2020,mid,0.45454545454545453,15,33
+fiddlesticks 2020,bot,0.0,0,1
+fiddlesticks 2020,support,0.4,2,5
+volibear 2011,top,0.0,0,1
+volibear 2011,jungle,0.0,0,1
+volibear 2011,mid,0.0,0,1
+volibear 2011,bot,0.0,0,1
+volibear 2011,support,0.5,1,2
+volibear 2020,top,0.5073649754500819,310,611
+volibear 2020,jungle,0.51440329218107,500,972
+volibear 2020,mid,0.0,0,3
+volibear 2020,bot,0.3333333333333333,1,3
+volibear 2020,support,0.5,1,2
+udyr,top,0.0,0,1
+udyr,jungle,0.0,0,2
+udyr,mid,0.0,0,1
+udyr,bot,0.0,0,1
+udyr,support,0.0,0,1
+lillia,top,0.3333333333333333,7,21
+lillia,jungle,0.47544204322200395,242,509
+lillia,mid,0.5714285714285714,4,7
+lillia,bot,0.0,0,1
+lillia,support,0.0,0,1
+snydra,top,0.0,0,1
+snydra,jungle,0.0,0,1
+snydra,mid,0.5802469135802469,47,81
+snydra,bot,0.0,0,1
+snydra,support,0.0,0,1
+yone,top,0.0,0,2
+yone,jungle,0.6666666666666666,2,3
+yone,mid,0.5306122448979592,26,49
+yone,bot,0.0,0,1
+yone,support,0.0,0,1
+samira,top,0.0,0,1
+samira,jungle,0.0,0,1
+samira,mid,0.0,0,2
+samira,bot,0.55,33,60
+samira,support,0.0,0,1
+tahmkench,top,0.0,0,1
+tahmkench,jungle,0.0,0,1
+tahmkench,mid,0.0,0,1
+tahmkench,bot,0.0,0,1
+tahmkench,support,0.0,0,5
+seraphine,top,0.0,0,1
+seraphine,jungle,0.0,0,1
+seraphine,mid,0.0,0,1
+seraphine,bot,0.0,0,1
+seraphine,support,0.25,1,4
